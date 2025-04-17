@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mo Abbas!
+# Hi there 👋 I'm Mo!
 
 > Software Architect & Senior Full Stack Developer from Brisbane, Australia 🦘
 
