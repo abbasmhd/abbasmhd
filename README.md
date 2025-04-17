@@ -10,7 +10,7 @@ I'm a passionate Software Architect and Full Stack Developer with over 10 years 
 - 🤖 Explore AI and LLM integrations
 - 🔄 Create automated workflows with N8N
 - 🌐 Build robust full-stack applications
-- 📊 Optimize database performance
+- 📊 Optimise database performance
 - 👥 Lead and mentor development teams
 
 ## 📊 GitHub Metrics
@@ -48,7 +48,7 @@ I'm a passionate Software Architect and Full Stack Developer with over 10 years 
 ## 🌟 Career Highlights
 - Designed and implemented large-scale microservices architectures
 - Led development teams in delivering complex enterprise solutions
-- Integrated AI and automation solutions for business optimization
+- Integrated AI and automation solutions for business optimisation
 - Developed robust full-stack applications with modern technologies
 - Implemented efficient CI/CD pipelines and DevOps practices
 
