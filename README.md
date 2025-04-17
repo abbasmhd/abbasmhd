@@ -20,7 +20,7 @@ I'm a passionate Software Architect and Full Stack Developer with over 10 years 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasmhd&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmhd&theme=github_dark_dimmed&hide_border=true&layout=compact&langs_count=8)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=abbasmhd&theme=onestar)](https://github.com/abbasmhd/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abbasmhd&theme=onestar&no-bg=true&no-frame=true)](https://github.com/abbasmhd/github-profile-trophy)
 
 ## 🎯 GitHub Achievements
 - <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="25"> Quickdraw - Gitty up!
