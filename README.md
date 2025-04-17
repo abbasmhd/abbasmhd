@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mo!
+# Hi there 👋 I'm Mo Abbas!
 
 > Software Architect & Senior Full Stack Developer from Brisbane, Australia 🦘
 
@@ -18,6 +18,15 @@ I'm a passionate Software Architect and Full Stack Developer with over 10 years 
 [![Followers](https://img.shields.io/github/followers/abbasmhd?label=Followers&style=flat&color=0969da)](https://github.com/abbasmhd?tab=followers) [![Stars](https://img.shields.io/github/stars/abbasmhd?style=flat&color=0969da)](https://github.com/abbasmhd?tab=stars) [![Profile Views](https://komarev.com/ghpvc/?username=abbasmhd&color=0969da&style=flat&label=Profile%20Views)](https://github.com/abbasmhd)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasmhd&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmhd&theme=github_dark_dimmed&hide_border=true&layout=compact&langs_count=8)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=abbasmhd&theme=flat&column=5)](https://github.com/abbasmhd/github-profile-trophy)
+
+## 🎯 GitHub Achievements
+- <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="25"> Quickdraw - Gitty up!
+- <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="25"> YOLO - You clearly don't read the warnings
+- <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="25"> Arctic Code Vault Contributor - Contributed code to the 2020 GitHub Archive Program
+- <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="25"> Pull Shark x2 - Opened multiple pull requests that have been merged
 
 ## 💻 Tech Stack
 
@@ -42,12 +51,6 @@ I'm a passionate Software Architect and Full Stack Developer with over 10 years 
 - Integrated AI and automation solutions for business optimization
 - Developed robust full-stack applications with modern technologies
 - Implemented efficient CI/CD pipelines and DevOps practices
-
-## 🏆 GitHub Achievements
-- <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="25"> Quickdraw - Gitty up!
-- <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="25"> YOLO - You clearly don't read the warnings
-- <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="25"> Arctic Code Vault Contributor - Contributed code to the 2020 GitHub Archive Program
-- <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="25"> Pull Shark x2 - Opened multiple pull requests that have been merged
 
 ## 📫 Let's Connect
 I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out if you'd like to connect or discuss potential opportunities!
